@@ -1,0 +1,2 @@
+This file will only appear in the student branch.
+This example shows us that each branch works independently
